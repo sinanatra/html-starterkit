@@ -1,4 +1,4 @@
-# Omeka S Theme Starterkit
+# HTML Theme Starterkit
 
 This repo is my own starterkit for HTML projects. It works with esbuild and it allows to work with ES6. 
 
