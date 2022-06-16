@@ -7,6 +7,11 @@ esbuildServe(
     bundle: true,
     outfile: "www/main.js",
     sourcemap: true,
+    loader: {
+      ".woff": "file",
+      ".svg": "file",
+      ".png": "file",
+  },
   },
   { root: "www" }
 );
