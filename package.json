@@ -18,7 +18,6 @@
   },
   "devDependencies": {
     "esbuild": "^0.12.19",
-    "esbuild-serve": "^1.0.1",
-    "jquery": "^3.5.1"
+    "esbuild-serve": "^1.0.1"
   }
 }
